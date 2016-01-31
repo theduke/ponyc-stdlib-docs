@@ -1,0 +1,2794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>None/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>None/packages-stdlib--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/packages-stdlib-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/assert--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/assert-Assert/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/assert-Fact/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/builtin--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Align/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-AlignCenter/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-AlignLeft/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-AlignRight/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-AmbientAuth/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Any/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-_ArithmeticConvertible/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Array/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-ArrayKeys/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-ArrayPairs/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-ArrayValues/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-AsioEvent/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-AsioEventID/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-AsioEventNotify/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Bool/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-ByteSeq/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-ByteSeqIter/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Comparable/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Compare/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Creatable/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-DisposableActor/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Env/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Equal/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Equatable/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-F32/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-F64/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Float/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FloatingPoint/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatBinary/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatBinaryBare/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatDefault/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatDefaultNumber/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatExp/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatExpLarge/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatFix/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatFixLarge/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatFloat/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatGeneral/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatGeneralLarge/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatHex/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatHexBare/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatHexSmall/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatHexSmallBare/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatInt/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatOctal/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatOctalBare/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatSettings/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatSettingsDefault/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatSettingsFloat/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatSettingsHolder/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatSettingsInt/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatSpec/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-FormatUTF32/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Greater/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-I128/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-I16/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-I32/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-I64/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-I8/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-ILong/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-ISize/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Integer/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Iterator/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Less/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Maybe/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-None/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Number/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-OutStream/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Platform/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Pointer/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-PrefixDefault/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-PrefixNumber/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-PrefixSign/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-PrefixSpace/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-PrefixSpec/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-ReadSeq/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Real/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Seq/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Signed/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-_SignedInteger/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-StdStream/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Stdin/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-StdinNotify/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-String/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-StringBytes/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-StringRunes/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Stringable/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-_ToString/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-U128/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-U16/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-U32/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-U64/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-U8/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-ULong/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-USize/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-Unsigned/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin-_UnsignedInteger/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/builtin_test--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestAbs/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestArraySlice/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestDivMod/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestFloatToString/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestIntToString/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestMath128/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestMaybe/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestSpecialValuesF32/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestSpecialValuesF64/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringCompare/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringCut/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringJoin/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringLstrip/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringRemove/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringReplace/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringRstrip/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringRunes/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringSplit/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringStrip/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringSubstring/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringToBool/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringToFloat/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringToI8/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringToIntLarge/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStringToU8/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/builtin_test-_TestStruct/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/bureaucracy--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/bureaucracy-Custodian/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/bureaucracy-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/bureaucracy-Registrar/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/bureaucracy-_TestCustodian/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/bureaucracy-_TestDisposable/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/bureaucracy-_TestRegistrar/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/capsicum--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/capsicum-Cap/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/capsicum-CapRights/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/capsicum-CapRights0/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/collections--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-Flag/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-Flags/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-HashByteSeq/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-HashEq/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-HashFunction/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-HashIs/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-HashMap/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-HashSet/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-Hashable/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-List/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-ListNode/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-ListNodes/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-ListValues/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-Map/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-_MapDeleted/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-_MapEmpty/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-MapIs/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-MapKeys/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-MapPairs/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-MapValues/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-Range/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-Reverse/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-RingBuffer/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-Set/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-SetIs/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-SetValues/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-_TestList/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/collections-_TestRing/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/debug--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/debug-Debug/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/debug-DebugErr/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/debug-DebugOut/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/debug-DebugStream/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/encode-base64--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/encode-base64-Base64/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/encode-base64-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/encode-base64-_TestBase64Decode/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/encode-base64-_TestBase64Encode/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/encode-base64-_TestBase64EncodeDecode/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/encode-base64-_TestBase64Quote/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/files--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-CreateFile/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-Directory/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_DirectoryEntry/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_DirectoryHandle/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-File/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileCaps/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileChmod/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileChown/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileCreate/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_FileDes/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileErrNo/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileError/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_FileHandle/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_FileHelper/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileInfo/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileLines/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileLink/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileLookup/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileMkdir/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileMode/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileOK/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FilePath/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileRead/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileRemove/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileRename/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileSeek/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileStat/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileStream/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileSync/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileTime/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileTruncate/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-FileWrite/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-OpenFile/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-Path/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_PathDot/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_PathDot2/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_PathOther/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_PathSep/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_PathState/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_TestMkdtemp/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-_TestWalk/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/files-WalkHandler/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/glob--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/glob-_FileHelper/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/glob-Glob/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/glob-GlobHandler/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/glob-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/glob-_TestFilter/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/glob-_TestFnMatch/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/glob-_TestFnMatchCase/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/glob-_TestGlob/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/glob-_TestIGlob/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/json--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-JsonArray/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-JsonDoc/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-JsonObject/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_JsonPrint/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-JsonType/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestParseArray/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestParseBasic/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestParseKeyword/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestParseNumber/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestParseObject/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestParsePrint/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestParseRFC1/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestParseRFC2/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestParseString/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestPrintArray/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestPrintKeyword/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestPrintNumber/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestPrintObject/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/json-_TestPrintString/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/math--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/math-Fibonacci/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/net--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-Buffer/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-DNS/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-IPAddress/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-TCPConnection/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-TCPConnectionNotify/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-TCPListenNotify/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-TCPListener/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-_TestBroadcast/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-_TestBroadcastMgr/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-_TestBuffer/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-_TestPing/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-_TestPong/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-UDPNotify/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-UDPSocket/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/net-http--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_BuildBad/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_BuildBasic/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_BuildMissingParts/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_BuildNoEncoding/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_Check/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_CheckBad/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_CheckIPv6/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_CheckScheme/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-Client/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_ClientConnection/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-CommonLog/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-ContentsLog/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_Decode/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_DecodeBad/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-DiscardLog/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_Encode/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_EncodeBad/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_EncodeClean/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_EncodeIPv6/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_HostService/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-Logger/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-Payload/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadBody/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadBuilder/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadChunk/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadChunkEnd/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadChunkStart/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadContentLength/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadError/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadHeaders/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadReady/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadRequest/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadResponse/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_PayloadState/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_RequestBuilder/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-RequestHandler/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_ResponseBuilder/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-ResponseHandler/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-Server/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_ServerConnection/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_ServerListener/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-ServerNotify/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_Test/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_ToStringFun/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-URL/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-URLEncode/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-URLPart/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-URLPartFragment/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-URLPartHost/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-URLPartPassword/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-URLPartPath/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-URLPartQuery/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-URLPartUser/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-http-_Valid/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/net-ssl--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-_BIO/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-_GeneralName/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-_GeneralNameStack/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-_SSL/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-SSL/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-SSLAuthFail/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-SSLConnection/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-_SSLContext/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-SSLContext/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-SSLError/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-SSLHandshake/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-_SSLInit/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-SSLReady/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-SSLState/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-X509/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/net-ssl-_X509Name/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/options--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-AmbiguousMatch/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-ArgumentType/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-EnvVars/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-_ErrorPrinter/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-ErrorReason/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-F64Argument/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-I64Argument/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-InvalidArgument/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-MissingArgument/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-_Option/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-Optional/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-Options/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-ParseError/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-ParsedOption/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-Required/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-StringArgument/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-_TestArgLeadingDash/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-_TestCombineShortArg/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-_TestCombineShortOptions/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-_TestLongOptions/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-TestOptions/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-_TestShortOptions/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/options-UnrecognisedOption/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/ponytest--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/ponytest-_Color/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/ponytest-_ExclusiveGroup/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/ponytest-_Group/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/ponytest-ITest/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/ponytest-PonyTest/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/ponytest-_SimultaneousGroup/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/ponytest-TestHelper/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/ponytest-TestList/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/ponytest-_TestRecord/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/ponytest-_TestRunner/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/ponytest-UnitTest/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/promises--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/promises-Fulfill/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/promises-FulfillIdentity/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/promises-_IThen/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/promises-_Pending/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/promises-Promise/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/promises-_Reject/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/promises-Reject/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/promises-RejectAlways/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/promises-_Then/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/random--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/random-Dice/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/random-MT/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/random-Random/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/regex--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/regex-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/regex-_Match/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/regex-Match/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/regex-_PCRE2/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/regex-_Pattern/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/regex-Regex/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/regex-_TestApply/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/regex-_TestEq/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/regex-_TestError/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/regex-_TestGroups/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/regex-_TestSplit/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/signals--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/signals-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/signals-Sig/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/signals-SignalHandler/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/signals-SignalNotify/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/signals-SignalRaise/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/signals-_TestSighupNotify/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/signals-_TestSignalINT/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/strings--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/strings-CommonPrefix/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/strings-Main/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/strings-_TestStringsCommonPrefix/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/term--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/term-ANSI/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/term-ANSINotify/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/term-ANSITerm/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/term-_EscapeCSI/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/term-_EscapeMod/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/term-_EscapeNone/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/term-_EscapeSS3/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/term-_EscapeStart/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/term-_EscapeState/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/term-Readline/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/term-ReadlineNotify/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/time--index/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/time-_Clock/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/time-_ClockMonotonic/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/time-_ClockRealtime/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/time-Date/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/time-Time/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/time-Timer/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/time-TimerNotify/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/time-Timers/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/time-_TimingWheel/</loc>
+     <lastmod>2016-01-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+</urlset>
